@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03.ShotgunSurgery", "P03.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.MiddleMan", "P04.MiddleMan\P04.MiddleMan.csproj", "{EBAEA44A-2BE0-4DA5-B8ED-534D9974241C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05.CyclomaticComplexity", "P05.CyclomaticComplexity\P05.CyclomaticComplexity.csproj", "{1979D11D-FFAA-4C3C-B252-06E2E5CF73EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EBAEA44A-2BE0-4DA5-B8ED-534D9974241C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBAEA44A-2BE0-4DA5-B8ED-534D9974241C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBAEA44A-2BE0-4DA5-B8ED-534D9974241C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1979D11D-FFAA-4C3C-B252-06E2E5CF73EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1979D11D-FFAA-4C3C-B252-06E2E5CF73EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1979D11D-FFAA-4C3C-B252-06E2E5CF73EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1979D11D-FFAA-4C3C-B252-06E2E5CF73EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
